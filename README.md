@@ -1,2 +1,0 @@
-# laundry-ticketing-system
-project 
